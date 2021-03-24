@@ -11,3 +11,6 @@ In the screenshot below you can see a console, a text area for writing kxi, a te
 
 ## Hello World
 ![GitHub Logo](Screenshot2.PNG)
+
+Also note that I have set up a node.js server which is serving the Browser-Compiler at my LAN
+![GitHub Logo](Screenshot3.PNG)
