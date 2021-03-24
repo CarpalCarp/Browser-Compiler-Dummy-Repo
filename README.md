@@ -7,4 +7,7 @@ Using the same compiler I made for the KXI programming language, I placed it on 
 
 In the screenshot below you can see a console, a text area for writing kxi, a text area for writing assembly and an input field. Once you compile the kxi code, the compiler will write the assembly which you can then run to see the results on the console. You can even write assembly code and execute that as well without using the compiler. When compiling, any syntax or semantic errors will show on the console.
 
+![GitHub Logo](Screenshot1.PNG)
+
 ## Hello World
+![GitHub Logo](Screenshot2.PNG)
